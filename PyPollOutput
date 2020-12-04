@@ -1,0 +1,24 @@
+Last login: Thu Dec  3 22:09:21 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Danielles-MBP:~ Danielle$ cd Documents
+Danielles-MBP:Documents Danielle$ cd python-challenge
+Danielles-MBP:python-challenge Danielle$ cd PyPoll
+Danielles-MBP:PyPoll Danielle$ python main.py
+Election Results
+-------------------------------
+Total Votes: 3521001
+-------------------------------
+Khan: 63.0% (2218231)
+Correy: 20.0% (704200)
+Li: 14.0% (492940)
+O'Tooley: 3.0% (105630)
+-------------------------------
+Winner: Kahn
+Danielles-MBP:PyPoll Danielle$ 
+
+
+
+
