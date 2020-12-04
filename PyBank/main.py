@@ -41,3 +41,4 @@ print("Total: $" + str(sum(changelist)))
 print("Average Change: $" + str(round(average,2)))
 print("Greatest Increase in Profits: " + str(date1[len(date1)-1]) + " $" + str(biggest_increase))
 print("Greatest Decrease in Profits: " + str(date2[len(date2)-1]) + " $" + str(biggest_loss))
+
